@@ -41,4 +41,3 @@
     ├── install_dependencies.sh
     ├── stop_container.sh
     └── validate_service.sh
-    ```
