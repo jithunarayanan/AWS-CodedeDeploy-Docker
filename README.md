@@ -31,8 +31,6 @@
 ```
 .
 ├── appspec.yml
-├── code
-│   ├── [All-your-code-tree]
 ├── docker-compose.yml
 ├── Dockerfile
 ├── README.md
