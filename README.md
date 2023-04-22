@@ -24,6 +24,7 @@
 ***Important files to deploy your application***</br>
 *appspec.yml* </br>
 *Dockerfile*</br>
+*.dockerignore*</br>
 *docker-compose.yml*</br>
 *script/*</br>
 
@@ -33,6 +34,7 @@
 ├── appspec.yml
 ├── docker-compose.yml
 ├── Dockerfile
+├── .dockerignore
 ├── README.md
 └── scripts
     ├── build_start.sh
